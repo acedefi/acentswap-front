@@ -1,0 +1,112 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "mainnet": {
+      "name": "mainnet",
+      "description": "mainnet tokens"
+    },
+    "testnet": {
+      "name": "testnet",
+      "description": "testnet tokens"
+    }
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WACE Token",
+      "symbol": "WACE",
+      "address": "0x09E91D6E7aD84341e9B61D823d9B01Ac2336C457",
+      "chainId": 8899,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x32959b1f785f20c0de0dd48b501ebcc6fbe6fe4a.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "ADE Token",
+      "symbol": "ADE",
+      "address": "0x8a5438b3aCE7227090b8495B933561f0a2542243",
+      "chainId": 8899,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0xc32ed9c663441606fddfe391c2594be048dda7f3.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0x66b6cc54b49cceecf495dde1d328c7b2fbb0425c",
+      "chainId": 8899,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x66b6cc54b49cceecf495dde1d328c7b2fbb0425c.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x4cc8f272dc7a597f1cd8101f43bcd2f17bc8769e",
+      "chainId": 8899,
+      "decimals": 6,
+      "logoURI": "./images/tokens/0x4cc8f272dc7a597f1cd8101f43bcd2f17bc8769e.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0x48242cd1c8c21b59c8ed61085fe6881f5c675a01",
+      "chainId": 8899,
+      "decimals": 8,
+      "logoURI": "./images/tokens/0x48242cd1c8c21b59c8ed61085fe6881f5c675a01.svg",
+      "tags": ["mainnet"]
+    },
+    {
+      "name": "WACE Token",
+      "symbol": "WACE",
+      "address": "0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4",
+      "chainId": 3034,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x6a3173618859C7cd40fAF6921b5E9eB6A76f1fD4.svg",
+      "tags": ["testnet"]
+    },
+    {
+      "name": "ADE Token",
+      "symbol": "ADE",
+      "address": "0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a",
+      "chainId": 3034,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x904Bd5a5AAC0B9d88A0D47864724218986Ad4a3a.svg",
+      "tags": ["testnet"]
+    },
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0x441d72d584b16105FF1C68DC8bc4517F4DC13E55",
+      "chainId": 3034,
+      "decimals": 18,
+      "logoURI": "./images/tokens/0x441d72d584b16105FF1C68DC8bc4517F4DC13E55.svg",
+      "tags": ["testnet"]
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b",
+      "chainId": 3034,
+      "decimals": 6,
+      "logoURI": "./images/tokens/0x321106E51b78E0E9CEBcFeC63C5250F0F3CcB82b.svg"
+    },
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F",
+      "chainId": 3034,
+      "decimals": 8,
+      "logoURI": "./images/tokens/0xFFc8ce84a196420d7bCCDEe980c65364eD1f389F.svg",
+      "tags": ["testnet"]
+    }
+  ]
+}
